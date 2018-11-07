@@ -1,0 +1,11 @@
+html, body{
+	height:100%;
+}
+body{
+	display:flex;
+	background:#f1f1f1;
+}
+iframe{
+	height:100%;
+	width:100%;
+}
